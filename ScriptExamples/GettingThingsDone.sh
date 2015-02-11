@@ -1,0 +1,1 @@
+curl "https://api.meetup.com/2/rsvps?&sign=true&rsvp=yes&event_id=qdxxblytdbpb&page=1000&key={your meetup key}"
